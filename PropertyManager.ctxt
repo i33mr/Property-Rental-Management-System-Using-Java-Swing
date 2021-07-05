@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PropertyManager
+comment1.params=userName\ password\ fullName\ contact\ email\ role\ status
+comment1.target=PropertyManager(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ sendManagerToFile()
+comment11.params=
+comment11.target=java.io.File\ getPropertyManagerDir()
+comment2.params=propertyManagerID\ userName\ password\ fullName\ contact\ email\ role\ status
+comment2.target=PropertyManager(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getPropertyManagerID()
+comment4.params=propertyManagerID
+comment4.target=void\ setPropertyManagerID(int)
+comment5.params=
+comment5.target=java.util.ArrayList\ getPropertyList()
+comment6.params=propertyList
+comment6.target=void\ setPropertyList(java.util.ArrayList)
+comment7.params=newProperty
+comment7.target=void\ addToPropertyList(Property)
+comment8.params=
+comment8.target=int\ readLastID()
+comment9.params=lastID
+comment9.target=void\ sendLastID(int)
+numComments=12

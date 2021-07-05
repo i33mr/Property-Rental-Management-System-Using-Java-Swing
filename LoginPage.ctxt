@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LoginPage
+comment1.params=
+comment1.target=LoginPage()
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=path\ x\ y
+comment3.target=javax.swing.ImageIcon\ loadImage(java.lang.String,\ int,\ int)
+comment4.params=
+comment4.target=javax.swing.JButton\ getLoginButton()
+comment5.params=
+comment5.target=javax.swing.JTextField\ getUsernameField()
+comment6.params=
+comment6.target=javax.swing.JPasswordField\ getPasswordField()
+comment7.params=
+comment7.target=javax.swing.JLabel\ getErrorLabel()
+comment8.params=
+comment8.target=javax.swing.JLabel\ getCreateNewAccountLabel()
+numComments=9

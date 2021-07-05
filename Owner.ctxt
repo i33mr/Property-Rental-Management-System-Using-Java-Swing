@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Owner
+comment1.params=userName\ password\ fullName\ contact\ email\ role\ status
+comment1.target=Owner(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ getGrants()
+comment3.params=grants
+comment3.target=void\ setGrants(java.util.ArrayList)
+comment4.params=newGrant
+comment4.target=void\ addToGrantList(java.lang.String)
+comment5.params=grant
+comment5.target=void\ sendGrantsToFile(java.lang.String)
+numComments=6
